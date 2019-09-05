@@ -1,7 +1,7 @@
 ## Wallpapers
 Wallpapers for use with PC, Mac, and/or Linux
 
-## fORMATS
+## Formats
 Included formats are:
 
 >- PNG
